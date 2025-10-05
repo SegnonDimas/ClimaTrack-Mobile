@@ -1,11 +1,11 @@
 {
-    "name": "galactic_heroes",
-    "short_name": "galactic_heroes",
+    "name": "ClimaTrack",
+    "short_name": "ClimaTrack",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "ClimaTrack: Rain Risk Intelligence for Event Planning",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

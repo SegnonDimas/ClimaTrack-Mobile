@@ -1,6 +1,6 @@
 import 'dart:async';
+import 'package:climatrack/views/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:galactic_heroes/views/app_colors.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'no_connection_screen.dart';

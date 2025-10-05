@@ -49,13 +49,16 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 0, 9, 26),
+      //backgroundColor: Color.fromARGB(255, 0, 9, 26),
+      backgroundColor: Color.fromARGB(255, 38, 58, 93),
+
       body: Center(
         child: Image.asset(
-          'assets/images/logo.png',
+          //'assets/images/logo.png',
+          'assets/icon/icon.png',
           fit: BoxFit.contain,
-          width: MediaQuery.of(context).size.width * 0.8,
-          height: MediaQuery.of(context).size.height * 0.6,
+          width: MediaQuery.of(context).size.width * 0.85,
+          height: MediaQuery.of(context).size.height * 0.8,
         ),
       ),
       bottomNavigationBar: const SizedBox(

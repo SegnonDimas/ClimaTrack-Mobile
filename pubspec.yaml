@@ -1,4 +1,4 @@
-name: galactic_heroes
+name: climatrack
 description: "ClimaTrack: Rain Risk Intelligence for Event Planning - A weather forecasting app for event planners to assess and manage rain risks."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

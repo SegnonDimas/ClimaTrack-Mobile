@@ -1,6 +1,5 @@
+import 'package:climatrack/views/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:galactic_heroes/views/app_colors.dart';
-import 'package:galactic_heroes/views/pages/onboarding_screen.dart';
 import 'views/pages/splash_screen.dart';
 
 void main() {
